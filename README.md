@@ -1,25 +1,19 @@
-# GV 外国手机卡官方商店
+# 出售 GV 英国 美国 新西兰外国实体手机 SIM 卡
 
 ## 客服
 
-- TG 客服: https://t.me/simgv （如您 TG 无法私信请发邮件）
+- TG 客服: https://t.me/simgv （如 TG 无法私信请发邮件）
 - 邮件客服: ahezuo@gmail.com
-- 官方 TG 频道：https://t.me/gvstoresim
+- TG 频道：https://t.me/gvstoresim
 
-注：原万人频道 gvstore 被 TG 限制，正在申诉，所以上面为新建频道
 
----
+## GV（Google Voice）
 
-## Google Voice
-
-常见的 GV 有以下几种，推荐选购支持转移或永久号。
-
-- ① 随机号码（送谷歌账号）
-- ② 代注册（送谷歌账号）
-- ③ 支持转移的靓号（号码转移到自己谷歌里）
-- ④ 永久号（无需保号）
-
----
+- 号码随机（送谷歌账号）
+- 立即转移（在自己谷歌里）
+- 双永久号（送谷歌账号）
+- 单永久号（在自己谷歌里）
+- 双永久号（在自己谷歌里）
 
 ## 实体 SIM 卡资费和价格
 
@@ -36,37 +30,34 @@
 |  **充值** |  官网 [giffgaff.com](https://www.giffgaff.com/) 或代充  | 官网 [ultramobile.com](https://www.ultramobile.com/) 或代充 |[Skinny App](https://apps.apple.com/cn/app/skinny-mobile/id926099138) 或代充|
 |**保号**|每 6 个月发条短信|交月租|每 12 个月发条短信或充次话费|
 |**实名** | 非实名 | 非实名 | 非实名|
-|**特色** |免月租、收短信免费、支持 eSIM、每半年保号一次|注册美区 PayPal、GV 必须美卡；支持 eSIM|免月租、收短信免费、每年保号一次|
-
----
+|**特色** |免月租、收短信免费、支持 eSIM、每半年保号一次|注册美区 PayPal、GV；支持 eSIM|免月租、收短信免费、每年保号一次|
 
 ## Apple ID
 
-- 美国、日本、香港、韩国等 Apple ID——49 元
-- 🇺🇸美区礼品卡 5 美元——55 元
-- 🇺🇸美区礼品卡 10 美元——99 元
-- 🇹🇷土区礼品卡100 里拉——39 元
-- 🇹🇷土区礼品卡200 里拉——75 元
+- 美国、日本、香港、韩国等 Apple ID
+- 🇺🇸美区礼品卡 5 美元
+- 🇺🇸美区礼品卡 10 美元
+- 🇹🇷土区礼品卡100 里拉
+- 🇹🇷土区礼品卡200 里拉
 
 ---
 
 ## Telegram
 
-- 成品号——129 元
-- 年会员——339 元
+- TG 成品号包含最近 2 月、超 6 个月、超 12 个月，一般而言时间越久越稳定。
+- TG 年会员
 
 ---
 
 ## Gmail
 
-- Gmail 随机号——19 元
-- Gmail 代注册——99 元
-- Gmail 绝版纯数字靓号: [点击这里](https://docs.google.com/spreadsheets/d/1XLwtSET7Nv5cLUu13LZouxWMmAropJTnt8pVvx70r70/edit?gid=0#gid=0)
+- 随机号
+- 代注册
+- 绝版纯数字靓号: [点击这里](https://docs.google.com/spreadsheets/d/1XLwtSET7Nv5cLUu13LZouxWMmAropJTnt8pVvx70r70/edit?gid=0#gid=0)
 
 ---
 
 ## 𝕏、V2EX
 
-- 𝕏/Twitter 账号——49 元
-
-- V2EX 邀请码——169元
+- 𝕏/Twitter 成品号
+- V2EX 邀请码
